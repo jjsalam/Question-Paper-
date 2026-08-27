@@ -1,0 +1,6 @@
+{
+  "name": "TN Samacheer Kalvi Question Paper Generator",
+  "description": "Tamil Nadu Samacheer Kalvi question paper & PDF generator for Primary Teachers (Classes 1 to 5, Terms 1-3) with official SCERT syllabus reference, blueprint, answer key and printable A4 layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
